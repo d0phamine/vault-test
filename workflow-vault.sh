@@ -6,7 +6,7 @@
 echo 1
 
 # Export values
-export VAULT_ADDR='http://0.0.0.0:8201'
+export VAULT_ADDR='http://localhost:8200'
 export VAULT_SKIP_VERIFY='true'
 
 echo 2

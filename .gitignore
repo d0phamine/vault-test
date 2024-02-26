@@ -1,3 +1,8 @@
 data/
 
+python_module/bin/
+python_module/include/
+python_module/lib/
+python_module/pyvenv.cfg
+
 *.txt
