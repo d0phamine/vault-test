@@ -1,4 +1,5 @@
 data/
+.vscode/
 
 python_module/bin/
 python_module/include/
